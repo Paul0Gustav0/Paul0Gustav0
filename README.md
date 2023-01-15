@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Paulo Gustavo ✌️
+### Salve ✌️
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul0Gustav0&show_icons=true&theme=radical)
 
